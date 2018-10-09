@@ -1,4 +1,8 @@
-Esto es una prueba
-hola
-Modifico de nuevo el fichero para commit
-Otra linea
+#include <stdio.h>
+
+int main (){
+
+	printf("hola mundo\n");
+
+return 0;
+}
